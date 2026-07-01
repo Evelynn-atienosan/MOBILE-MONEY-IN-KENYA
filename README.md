@@ -8,6 +8,9 @@ Kenya has become the global benchmark for mobile money adoption. When the World 
 
 A decade later, that transformation has continued. By 2024, **87% of Kenyan adults owned a mobile money account**, contributing to an overall **90% financial account ownership rate**.
 
+   <img width="538" height="290" alt="Account_Ownership" src="https://github.com/user-attachments/assets/aaf5c650-f0be-4755-980b-938425ab8df2" />
+
+
 However, this project reveals that the real story extends beyond account ownership. Between 2021 and 2024, mobile money increasingly became the preferred platform for saving, accessing formal credit, and receiving wages, fundamentally changing how millions of Kenyans interact with financial services.
 
 
@@ -31,7 +34,6 @@ Instead of relying solely on aggregated indicators, this project applies set the
 7. Exported the final analytical datasets as CSV files.
 8. Imported the cleaned datasets into **Power BI** to build interactive visualizations.
 
----
 
 # Tools & Technologies
 
@@ -66,6 +68,7 @@ Meanwhile, exclusive mobile money savings increased sharply from **23.56% to 34.
 
 **Key Insight:** Mobile money has become the preferred destination for household savings, attracting users from both traditional banking and informal saving methods.
 
+<img width="419" height="272" alt="saving_kenya" src="https://github.com/user-attachments/assets/15226cf4-1530-4302-b58d-5adfaa7b5db2" />
 
 
 # The Changing Landscape of Credit Access
@@ -78,6 +81,7 @@ Within the formal financial sector, exclusive mobile money borrowing increased f
 
 **Key Insight:** Mobile money has emerged as Kenya's preferred formal lending channel, while informal community lending continues to play an essential role alongside digital finance.
 
+<img width="406" height="263" alt="Borrowing_Kenya" src="https://github.com/user-attachments/assets/6f901c03-6248-4959-887e-f5675be8589a" />
 
 
 # The Digital Transformation of Wage Payments
@@ -90,6 +94,7 @@ Cash wage payments declined from **5.88% to 4.95%**, while bank-only salary paym
 
 **Key Insight:** Mobile money has become an increasingly important payroll channel, reflecting its growing role in both personal finance and business operations.
 
+       <img width="443" height="263" alt="Private_sector_wages" src="https://github.com/user-attachments/assets/a0d9815b-bff8-48ce-9464-2ab9c3032242" />
 
 
 # The Bigger Picture
