@@ -97,7 +97,7 @@ Cash wage payments declined from **5.88% to 4.95%**, while bank-only salary paym
        <img width="443" height="263" alt="Private_sector_wages" src="https://github.com/user-attachments/assets/a0d9815b-bff8-48ce-9464-2ab9c3032242" />
 
 
-# The Bigger Picture
+# Overall Insights
 
 Looking across savings, borrowing, and wage payments, one pattern becomes clear.
 
