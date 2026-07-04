@@ -94,7 +94,8 @@ Cash wage payments declined from **5.88% to 4.95%**, while bank-only salary paym
 
 **Key Insight:** Mobile money has become an increasingly important payroll channel, reflecting its growing role in both personal finance and business operations.
 
-      <img width="886" height="526" alt="image" src="https://github.com/user-attachments/assets/f69b8fc7-b04e-4a4b-9f46-abb8bc8a84c1" />
+ <img width="886" height="526" alt="image" src="https://github.com/user-attachments/assets/7dc78536-c412-4fa7-95fb-002d7f46d392" />
+
 
 
 
