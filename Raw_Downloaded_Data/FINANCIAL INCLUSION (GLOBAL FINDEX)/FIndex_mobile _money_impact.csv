@@ -1,0 +1,522 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2014 [YR2014],2017 [YR2017],2021 [YR2021],2022 [YR2022],2024 [YR2024]
+Angola,AGO,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Angola,AGO,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Angola,AGO,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,38.9283452528467,22.3316464905364,..,..,..,..
+Angola,AGO,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,39.4809697161049,36.1321313839668,..,..,..,..
+Angola,AGO,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,5.65850260405293,..,..,..,..
+Angola,AGO,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,5.65850260405293,..,..,..,..
+Angola,AGO,Saved at a bank or similar financial institution  (% age 15+),fin17a,15.9155843112353,14.860407234029,..,..,..,..
+Angola,AGO,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Angola,AGO,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,15.9155843112353,14.860407234029,..,..,..,..
+Angola,AGO,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Angola,AGO,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Angola,AGO,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Benin,BEN,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,24.6091235497795,44.3281869254932,..,50.2886229057436
+Benin,BEN,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,11.7268411321563,29.6385905118944,..,40.1151060485774
+Benin,BEN,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,9.80735403795204,12.8702527090146,22.9106577903991,17.4983155308187,..,19.9075941870158
+Benin,BEN,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,11.1505669063628,19.2082952746039,41.06737550942,30.6132929515788,..,19.904565501589
+Benin,BEN,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,7.73875517901797,11.3602694384735,8.20427380859696,..,8.65463345456663
+Benin,BEN,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,7.73875517901797,11.3602694384735,11.1391268908833,..,12.6827260516769
+Benin,BEN,Saved at a bank or similar financial institution  (% age 15+),fin17a,7.0161602909638,7.14403158004107,9.80283102102892,5.14619635902215,..,7.54543717808197
+Benin,BEN,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,8.8480804596175,..,19.4357174041747
+Benin,BEN,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,7.0161602909638,7.14403158004107,9.80283102102892,12.6601692146316,..,23.3673149403528
+Benin,BEN,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,3.95342904163725
+Benin,BEN,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,22.4409226050181
+Benin,BEN,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,2.50406531195417
+Botswana,BWA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,22.0627524273901,29.1026010806703,..,41.8373702159317,53.9959361768223
+Botswana,BWA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,19.457330396914,20.5060826761446,..,31.893893708494,49.6449784803708
+Botswana,BWA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,28.3603353299246,45.870851206182,41.0741655719065,..,44.7719541161366,40.1282670968182
+Botswana,BWA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,32.1595263342807,52.6607090898419,49.4085331709347,..,55.637627075304,43.3836811562809
+Botswana,BWA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,17.6156815971821,8.8618680253569,..,9.64441808881157,8.1424312435786
+Botswana,BWA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,17.6156815971821,8.8618680253569,..,11.2378114671055,23.0385393678918
+Botswana,BWA,Saved at a bank or similar financial institution  (% age 15+),fin17a,16.4670000194884,26.6092261375031,17.9569802236115,..,17.2706043207511,15.6004409944736
+Botswana,BWA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,20.8545135523803,36.5238694624191
+Botswana,BWA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,16.4670000194884,26.6092261375031,17.9569802236115,..,27.4913074651779,40.1165045193513
+Botswana,BWA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,15.4356383056175
+Botswana,BWA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,20.3751533129768
+Botswana,BWA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.32171013394778
+Burkina Faso,BFA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,41.8080486159322,31.0600329032013,..,51.1241097660437
+Burkina Faso,BFA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,23.653272379824,19.1035742239518,..,37.9570116825917
+Burkina Faso,BFA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,10.8137100104842,11.7519254897512,20.1822052023081,17.0114499997273,..,17.8168621508766
+Burkina Faso,BFA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,15.6954228033191,15.1111872384344,26.3018987562828,25.6993092280462,..,23.6207363602126
+Burkina Faso,BFA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,5.89953512199689,9.99784776275684,6.65117811457748,..,5.96985571659021
+Burkina Faso,BFA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,5.89953512199689,9.99784776275684,8.59393288755373,..,8.45171336560453
+Burkina Faso,BFA,Saved at a bank or similar financial institution  (% age 15+),fin17a,7.91482652707325,8.66108052858537,12.0733309270584,7.52111080662854,..,9.48220822055792
+Burkina Faso,BFA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,11.0514585869187,..,28.4448873837709
+Burkina Faso,BFA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,7.91482652707325,8.66108052858537,12.0733309270584,15.9280765645225,..,32.9436383478269
+Burkina Faso,BFA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,5.55338361192619
+Burkina Faso,BFA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,20.6835806013267
+Burkina Faso,BFA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,2.25390519474803
+Burundi,BDI,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Burundi,BDI,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Burundi,BDI,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,..,..
+Burundi,BDI,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,..,..
+Burundi,BDI,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,1.61296269851951,..,..,..,..
+Burundi,BDI,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,1.61296269851951,..,..,..,..
+Burundi,BDI,Saved at a bank or similar financial institution  (% age 15+),fin17a,3.30660962333304,4.00107348881573,..,..,..,..
+Burundi,BDI,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Burundi,BDI,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,3.30660962333304,4.00107348881573,..,..,..,..
+Burundi,BDI,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Burundi,BDI,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Burundi,BDI,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Cameroon,CMR,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,17.0096558884284,46.2621997326724,..,62.5927486822781
+Cameroon,CMR,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,13.3035088421912,38.7464138918712,..,47.9885285066995
+Cameroon,CMR,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,10.8814437855453,8.88164165261227,22.7034504530389,20.294823658548,..,16.5445781841593
+Cameroon,CMR,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,18.8115622214897,13.8224404589629,31.1152141597561,26.9001699958606,..,25.7333906121327
+Cameroon,CMR,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.09380933024601,7.7040833960495,6.98130693005087,..,4.52922842587718
+Cameroon,CMR,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.09380933024601,7.7040833960495,11.4967210318556,..,10.0801862789527
+Cameroon,CMR,Saved at a bank or similar financial institution  (% age 15+),fin17a,9.94099465541843,7.71559649363993,10.9206836851123,8.61439781349746,..,9.21628671660222
+Cameroon,CMR,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,18.301473998245,..,27.3944551008028
+Cameroon,CMR,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,9.94099465541843,7.71559649363993,10.9206836851123,23.4675410138916,..,31.2446243997402
+Cameroon,CMR,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,6.20179732415826
+Cameroon,CMR,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,28.4263972306526
+Cameroon,CMR,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.54153930660298
+Central African Republic,CAF,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Central African Republic,CAF,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Central African Republic,CAF,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,9.71761748965302,..,..,..
+Central African Republic,CAF,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,18.0825013448328,..,..,..
+Central African Republic,CAF,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,4.46481779214819,..,..,..
+Central African Republic,CAF,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,4.46481779214819,..,..,..
+Central African Republic,CAF,Saved at a bank or similar financial institution  (% age 15+),fin17a,2.47453909775814,..,5.74875947576674,..,..,..
+Central African Republic,CAF,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Central African Republic,CAF,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,2.47453909775814,..,5.74875947576674,..,..,..
+Central African Republic,CAF,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Central African Republic,CAF,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Central African Republic,CAF,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Chad,TCD,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,19.7887312418944,..,11.896448860418,15.1476467789559
+Chad,TCD,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,10.9052792836118,..,12.2583976211465,11.6088686944894
+Chad,TCD,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,17.2835498199581,13.8131945995707
+Chad,TCD,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,19.4630319776341,16.2493112997712
+Chad,TCD,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.35957566343116,3.85755283174618,..,8.49065904725632,9.76084030791544
+Chad,TCD,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.35957566343116,3.85755283174618,..,9.985257091156,11.4678366911108
+Chad,TCD,Saved at a bank or similar financial institution  (% age 15+),fin17a,6.83930456657733,4.62941980675713,2.53031628854435,..,7.62391119692678,9.44239510257721
+Chad,TCD,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,4.66056001654436,7.24510558213321
+Chad,TCD,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,6.83930456657733,4.62941980675713,2.53031628854435,..,9.05885016405395,14.0596476405708
+Chad,TCD,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,2.00528480099953
+Chad,TCD,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,4.08229404425757
+Chad,TCD,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.5972153724198
+Comoros,COM,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,18.6429399120281
+Comoros,COM,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,10.1190256304954
+Comoros,COM,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,17.8929575737707,..,..,..,27.5047079439013,37.6968399601916
+Comoros,COM,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,25.6971496339755,..,..,..,34.2684936143962,44.4538132078101
+Comoros,COM,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,..,..,8.24640271522264,9.65345130457784
+Comoros,COM,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,..,..,9.06506745486809,10.6703831120884
+Comoros,COM,Saved at a bank or similar financial institution  (% age 15+),fin17a,10.7650463852356,..,..,..,11.1690203425268,15.2215944930162
+Comoros,COM,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,3.4791311947297,8.738786994015
+Comoros,COM,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,10.7650463852356,..,..,..,13.8171852133278,20.2029609596695
+Comoros,COM,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,9.65555129194967
+Comoros,COM,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,5.5944934010001
+Comoros,COM,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.344559064075865
+"Congo, Dem. Rep.",COD,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,18.6024071340242,..,29.4683559525958,41.4846021795806
+"Congo, Dem. Rep.",COD,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,13.5206580335572,..,15.6883345328734,28.3052786928692
+"Congo, Dem. Rep.",COD,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,8.54996712460262,14.3918786524538,..,..,11.4805488047837
+"Congo, Dem. Rep.",COD,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,13.2934163799498,15.5822074841423,..,..,15.4003536834955
+"Congo, Dem. Rep.",COD,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.95228987034971,3.93936120220026,..,3.59412040892047,4.97762790752274
+"Congo, Dem. Rep.",COD,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.95228987034971,3.93936120220026,..,5.32093683459675,8.82398129898338
+"Congo, Dem. Rep.",COD,Saved at a bank or similar financial institution  (% age 15+),fin17a,1.49521968075751,4.72176703850993,4.70535146425924,..,4.64848100195692,8.45052844627554
+"Congo, Dem. Rep.",COD,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,11.0129448823447,23.9834764706151
+"Congo, Dem. Rep.",COD,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,1.49521968075751,4.72176703850993,4.70535146425924,..,13.1352996645657,26.6512554184658
+"Congo, Dem. Rep.",COD,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,2.80107400273853
+"Congo, Dem. Rep.",COD,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,17.824941441422
+"Congo, Dem. Rep.",COD,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,3.11606763323922
+"Congo, Rep.",COG,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,41.1582474895853,..,55.9433457020094
+"Congo, Rep.",COG,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,32.5445455768159,..,47.2393186237405
+"Congo, Rep.",COG,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,7.55865872047357,14.1875632505909,19.1489279131411,16.534256584837,..,11.0187079485956
+"Congo, Rep.",COG,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,12.5145296088604,19.1590059913893,27.3857109061916,19.7670325190808,..,18.419958848482
+"Congo, Rep.",COG,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,5.08118832167241,5.19966743071298,6.18895241384633,..,3.52485494297872
+"Congo, Rep.",COG,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,5.08118832167241,5.19966743071298,10.0151081547113,..,6.3624480190278
+"Congo, Rep.",COG,Saved at a bank or similar financial institution  (% age 15+),fin17a,5.94546443593077,9.78648353775525,7.37837525644308,5.43730859189645,..,5.17812632537751
+"Congo, Rep.",COG,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,17.562765798715,..,26.1527536885437
+"Congo, Rep.",COG,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,5.94546443593077,9.78648353775525,7.37837525644308,20.3305732628039,..,28.6071446014837
+"Congo, Rep.",COG,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,2.63955580867861
+"Congo, Rep.",COG,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,27.7952081206076
+"Congo, Rep.",COG,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,2.9430089493601
+Cote d'Ivoire,CIV,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,28.26349739709,37.8876734585302,50.8939172013437,..,57.720592327979
+Cote d'Ivoire,CIV,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,20.0288505566168,29.8547288311915,29.8418787229089,..,48.905751587193
+Cote d'Ivoire,CIV,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,11.9811407353914,9.7843843204,13.8214644168711,..,12.3401058342197
+Cote d'Ivoire,CIV,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,18.1196161970654,19.3169235297977,27.2896428138412,..,21.172842867726
+Cote d'Ivoire,CIV,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.7058977676973,2.70849515559381,4.09186234879788,..,3.9065452060981
+Cote d'Ivoire,CIV,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.7058977676973,2.70849515559381,7.74183995737473,..,6.24464494696516
+Cote d'Ivoire,CIV,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,8.85181146983917,6.43899308567922,5.87970428433739,..,8.39365452386094
+Cote d'Ivoire,CIV,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,16.3976844092562,..,32.3531388941145
+Cote d'Ivoire,CIV,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,8.85181146983917,6.43899308567922,19.539438159552,..,35.6445848808043
+Cote d'Ivoire,CIV,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,5.12812138569144
+Cote d'Ivoire,CIV,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,28.4634323633979
+Cote d'Ivoire,CIV,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,5.86107581361348
+Eswatini,SWZ,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,52.1527427247287,51.0170367241267
+Eswatini,SWZ,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,60.4038922865295,49.9392292447322
+Eswatini,SWZ,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,27.4139533987126,..,..,..,35.3603512389661,41.6322258202006
+Eswatini,SWZ,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,29.7359490084751,..,..,..,42.3720297983619,45.0968662190463
+Eswatini,SWZ,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,..,..,9.62699461541919,8.71834771539593
+Eswatini,SWZ,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,..,..,32.7146887236616,23.5092468210995
+Eswatini,SWZ,Saved at a bank or similar financial institution  (% age 15+),fin17a,17.7559971126301,..,..,..,13.9584594944704,14.4991741302352
+Eswatini,SWZ,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,25.5095533151833,22.6070554085944
+Eswatini,SWZ,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,17.7559971126301,..,..,..,33.4315684987629,30.2283656020238
+Eswatini,SWZ,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,18.8765190444714
+Eswatini,SWZ,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,10.6408982974379
+Eswatini,SWZ,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.94682358895782
+Ethiopia,ETH,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Ethiopia,ETH,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Ethiopia,ETH,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,21.0040311985886,29.0754315174008,..,37.8985053886189,41.6159713320994
+Ethiopia,ETH,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,22.6220561075517,40.9438765977029,..,54.6826000438185,55.7827750191433
+Ethiopia,ETH,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,7.36276216588019,10.6594952757926,..,4.60276074667681,2.62244291737623
+Ethiopia,ETH,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,7.36276216588019,10.6594952757926,..,5.02866856290871,4.31621763895153
+Ethiopia,ETH,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,13.6346769501849,26.288827488103,..,22.6455164925943,25.0975857845979
+Ethiopia,ETH,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,1.53473463229195,3.7586352140019
+Ethiopia,ETH,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,13.6346769501849,26.288827488103,..,22.9122447544482,25.7860544426586
+Ethiopia,ETH,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,12.5883235363226
+Ethiopia,ETH,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,2.98753683515316
+Ethiopia,ETH,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.812439576280768
+Gabon,GAB,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,46.2588735433725,60.7466822367183,..,65.6794300033265
+Gabon,GAB,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,41.0530359591433,54.5660372449478,..,57.3902913422494
+Gabon,GAB,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,17.1723565635735,28.0983389952103,29.8599474025599,20.5050695345604,..,19.0450144331058
+Gabon,GAB,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,20.7606037540527,32.3274949083813,38.3640986517191,35.4648376190108,..,30.327611410049
+Gabon,GAB,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,6.98642292046076,7.53443136102371,5.47901592322107,..,4.40509682033483
+Gabon,GAB,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,6.98642292046076,7.53443136102371,12.1609379887153,..,6.48899575403273
+Gabon,GAB,Saved at a bank or similar financial institution  (% age 15+),fin17a,8.66142452195831,18.0087521194352,13.4619545343615,11.2894643757603,..,10.7495907635855
+Gabon,GAB,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,21.8050149696998,..,33.9835134469511
+Gabon,GAB,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,8.66142452195831,18.0087521194352,13.4619545343615,27.4594078625995,..,39.0609505897674
+Gabon,GAB,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,9.41099704867072
+Gabon,GAB,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,29.7656229436436
+Gabon,GAB,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.54074317883666
+"Gambia, The",GMB,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,20.1370498705936
+"Gambia, The",GMB,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,18.1187119960812
+"Gambia, The",GMB,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,24.7647799447907,..,25.8822621463546,27.4704525355669
+"Gambia, The",GMB,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,32.6937017421755,..,37.3787163955265,34.4972745036017
+"Gambia, The",GMB,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,5.09942339689622,..,5.57679222112835,5.14853348166326
+"Gambia, The",GMB,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,5.09942339689622,..,5.79116163180675,5.50535364620728
+"Gambia, The",GMB,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,..,9.59058122362879,..,16.6440950708389,20.0648299010009
+"Gambia, The",GMB,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,0.698436296543242,11.3811526691951
+"Gambia, The",GMB,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,..,9.59058122362879,..,16.8757717307862,24.773595129681
+"Gambia, The",GMB,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,10.6142544758664
+"Gambia, The",GMB,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,4.39133494362068
+"Gambia, The",GMB,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.937110086614249
+Ghana,GHA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,14.2126782036744,44.2139266546572,64.6228627269037,..,81.0431670791543
+Ghana,GHA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,11.8386677808716,33.7851033684981,55.0019330606653,..,75.731555527741
+Ghana,GHA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,27.088298008763,33.9852410447601,38.3566720653047,31.5067645072489,..,31.4639377571089
+Ghana,GHA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,31.845334833461,35.2722441290963,46.2903713896261,47.2949881613232,..,46.6233055835751
+Ghana,GHA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,8.32938347694014,11.5967974481565,7.39666503308489,..,10.1231491430945
+Ghana,GHA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,8.32938347694014,11.5967974481565,17.1953840177995,..,29.4869403544161
+Ghana,GHA,Saved at a bank or similar financial institution  (% age 15+),fin17a,16.1385716122432,18.5901848149067,16.1907458894748,21.061655277755,..,25.9405495179206
+Ghana,GHA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,36.7267224976712,..,61.3650941820314
+Ghana,GHA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,16.1385716122432,18.5901848149067,16.1907458894748,45.7955090512731,..,67.1980947785854
+Ghana,GHA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,14.6986097080969
+Ghana,GHA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,23.8887930473313
+Ghana,GHA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.82656534942538
+Guinea,GIN,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,17.6287179897257,26.2698627979798,..,31.0028487150947
+Guinea,GIN,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,9.89464917198827,16.7771881775541,..,20.64315731453
+Guinea,GIN,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,13.4863677178159,10.8041456878463,..,15.7421098861657
+Guinea,GIN,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,15.7583505287789,16.7542759547876,..,18.0650811742965
+Guinea,GIN,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.61753423837207,5.83781461004454,6.1075079364787,..,6.1589339998156
+Guinea,GIN,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.61753423837207,5.83781461004454,7.85585714178562,..,10.8408532183455
+Guinea,GIN,Saved at a bank or similar financial institution  (% age 15+),fin17a,2.0361637126878,2.87447987362418,6.45726037588211,4.89636380560291,..,6.83314377730161
+Guinea,GIN,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,9.48933274825653,..,19.7207108431268
+Guinea,GIN,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,2.0361637126878,2.87447987362418,6.45726037588211,12.9170260479269,..,23.3317982307508
+Guinea,GIN,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,2.06709786145302
+Guinea,GIN,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,13.4991893430311
+Guinea,GIN,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.17224836577663
+Kenya,KEN,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,62.3527831846295,76.8989865647738,71.4192115036634,..,91.6719907971862
+Kenya,KEN,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,54.9044437518591,69.3801385620088,66.0427561215072,..,83.5097020779134
+Kenya,KEN,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,39.1788059462997,51.9369110006152,46.9648043951933,44.7684844256706,..,34.0700646492522
+Kenya,KEN,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,45.6456419128242,58.9164220421045,65.4957921354944,56.6988435138565,..,57.3062136250947
+Kenya,KEN,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,15.958119776614,19.2382391211065,22.1745117338,..,12.6129604153793
+Kenya,KEN,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,15.958119776614,19.2382391211065,39.6867384230357,..,37.5464332767464
+Kenya,KEN,Saved at a bank or similar financial institution  (% age 15+),fin17a,23.2819688364814,30.1837822347094,26.7844119301767,21.4531739032776,..,20.1488814386545
+Kenya,KEN,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,37.2453264493391,..,50.4706093324556
+Kenya,KEN,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,23.2819688364814,30.1837822347094,26.7844119301767,45.0110991275483,..,54.4225878392456
+Kenya,KEN,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,11.5772330070956
+Kenya,KEN,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,30.6089852498233
+Kenya,KEN,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.33913521653188
+Lesotho,LSO,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,24.2706826097978,..,47.3966477306857,53.5584217255487
+Lesotho,LSO,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,30.7903237785466,..,44.5220192349399,53.3999006755036
+Lesotho,LSO,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,16.8664293417893,..,33.007483214308,..,42.1593152976902,28.8246995527797
+Lesotho,LSO,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,20.2422583149585,..,33.6576848070543,..,46.8374872499668,39.0520077547525
+Lesotho,LSO,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,5.57385617104159,..,12.5517218611662,6.96705214733458
+Lesotho,LSO,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,5.57385617104159,..,19.3526039761815,16.6503495190865
+Lesotho,LSO,Saved at a bank or similar financial institution  (% age 15+),fin17a,7.8963269967634,..,8.80113263149461,..,16.4766894868007,12.9092052013229
+Lesotho,LSO,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,24.5533136584552,29.9462714351987
+Lesotho,LSO,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,7.8963269967634,..,8.80113263149461,..,30.7892414120121,34.5302989454238
+Lesotho,LSO,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,13.7183031228493
+Lesotho,LSO,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,12.6197491290839
+Lesotho,LSO,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,6.16938046512008
+Liberia,LBR,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,23.4758832292679,40.3117824954402,..,52.9752549681816
+Liberia,LBR,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,18.3400869688993,32.4271064413957,..,42.0673688641825
+Liberia,LBR,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,14.6839442690309,..,14.1263642547086,19.2253365286684,..,9.03534217070421
+Liberia,LBR,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,22.992349353381,..,29.4253395207922,38.3085378314004,..,18.7170708784855
+Liberia,LBR,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,8.08966507689169,15.4147645696547,..,8.85745249965925
+Liberia,LBR,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,8.08966507689169,16.5533873979961,..,12.5289961728471
+Liberia,LBR,Saved at a bank or similar financial institution  (% age 15+),fin17a,13.9253093178251,..,10.8791162654485,12.6776550946289,..,6.26889568047264
+Liberia,LBR,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,15.1143879910291,..,26.8254951413573
+Liberia,LBR,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,13.9253093178251,..,10.8791162654485,21.9860621110564,..,30.1261589080675
+Liberia,LBR,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,3.13579492686863
+Liberia,LBR,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,20.3523084364797
+Liberia,LBR,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,8.32714631481114
+Libya,LBY,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Libya,LBY,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Libya,LBY,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,59.6209608011448,..,..,24.6960239810713
+Libya,LBY,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,70.6883414894674,..,..,41.4206818482174
+Libya,LBY,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,8.38457729379851,..,..,12.1744830118449
+Libya,LBY,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,8.38457729379851,..,..,12.1744830118449
+Libya,LBY,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,..,17.0972415201566,..,..,15.8755743489572
+Libya,LBY,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Libya,LBY,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,..,17.0972415201566,..,..,15.8755743489572
+Libya,LBY,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Libya,LBY,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Libya,LBY,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Madagascar,MDG,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,12.1593121232761,..,20.0700413094453,24.3778254581318
+Madagascar,MDG,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,11.9624646003107,..,18.0776826348224,14.7197776231893
+Madagascar,MDG,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,12.2355959811409,..
+Madagascar,MDG,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,15.9319588133791,..
+Madagascar,MDG,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.00407924564631,3.80854333516206,..,5.83965966516591,2.76663594472231
+Madagascar,MDG,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.00407924564631,3.80854333516206,..,8.67939517069907,6.78470826698089
+Madagascar,MDG,Saved at a bank or similar financial institution  (% age 15+),fin17a,1.37609964336739,3.26036306741358,3.96118041141,..,3.51675585821452,4.77709030680504
+Madagascar,MDG,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,9.47840270680914,7.90985933855892
+Madagascar,MDG,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,1.37609964336739,3.26036306741358,3.96118041141,..,11.5372567311312,11.0635447241608
+Madagascar,MDG,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,2.75740924991837
+Madagascar,MDG,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,7.82511626323618
+Madagascar,MDG,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.26999275711949
+Malawi,MWI,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,22.8300719515543,38.8293837533079,..,51.3829426360693
+Malawi,MWI,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,17.9906089997246,30.2851392941865,..,43.7507788502195
+Malawi,MWI,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,16.8824413712152,12.9861192297996,17.6859050561676,16.8777125856026,..,9.45220688596088
+Malawi,MWI,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,16.1718470814139,19.4868242636753,28.7900214820075,23.9107109070152,..,15.6327215381076
+Malawi,MWI,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,6.94907613078058,8.59992264049599,7.985792065226,..,6.74001801708283
+Malawi,MWI,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,6.94907613078058,8.59992264049599,10.0533255443524,..,10.7842060441682
+Malawi,MWI,Saved at a bank or similar financial institution  (% age 15+),fin17a,8.2432829956616,7.05400303917931,8.69729066793167,6.74104123705311,..,5.42690165085303
+Malawi,MWI,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,17.4854642132341,..,28.3593266798584
+Malawi,MWI,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,8.2432829956616,7.05400303917931,8.69729066793167,21.2625325991597,..,30.8739465833608
+Malawi,MWI,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,3.31035356357338
+Malawi,MWI,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,21.6093716459252
+Malawi,MWI,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.7242772444293
+Mali,MLI,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,14.3830444070434,29.1173878915629,32.5900939172917,..,56.3195856481169
+Mali,MLI,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,8.9878391092296,19.8359216434374,26.3480562259252,..,40.706815237823
+Mali,MLI,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,10.5269863149815,9.82830174443191,28.2901600204336,..,14.222759875734
+Mali,MLI,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,16.0681238538301,26.7679737274815,28.6048342780753,..,22.8104501118961
+Mali,MLI,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,3.10895509349034,8.03821482789978,10.9840475808743,..,8.92976363593537
+Mali,MLI,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,3.10895509349034,8.03821482789978,12.8451161660139,..,11.7857481628562
+Mali,MLI,Saved at a bank or similar financial institution  (% age 15+),fin17a,4.47911495708899,2.88798909999422,6.07278264142013,11.2029992493284,..,8.70116100339737
+Mali,MLI,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,11.1940163376816,..,26.546285832885
+Mali,MLI,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,4.47911495708899,2.88798909999422,6.07278264142013,18.6487663022361,..,30.2106022127375
+Mali,MLI,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,6.41619379683577
+Mali,MLI,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,22.2713507828875
+Mali,MLI,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,3.07912445788864
+Mauritania,MRT,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,13.6446060547292,..
+Mauritania,MRT,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,7.0143816294543,..
+Mauritania,MRT,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,12.0874266736437,18.8134747428902,13.5683355498487,..,13.1328275846921,24.6801310105525
+Mauritania,MRT,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,23.3032708309458,22.1676943505514,24.5223833345327,..,28.4323251043377,30.2658938456615
+Mauritania,MRT,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,9.12443365745067,9.24529499035456,..,10.8309878870934,13.3304705517636
+Mauritania,MRT,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,9.12443365745067,9.24529499035456,..,11.7006208166183,13.3304705517636
+Mauritania,MRT,Saved at a bank or similar financial institution  (% age 15+),fin17a,6.40927541861393,10.56835404337,9.13121640985781,..,9.48118636505762,16.1072834215149
+Mauritania,MRT,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,2.43644184206154,..
+Mauritania,MRT,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,6.40927541861393,10.56835404337,9.13121640985781,..,10.4934610524859,16.1072834215149
+Mauritania,MRT,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,6.94844232562865
+Mauritania,MRT,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Mauritania,MRT,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Mauritius,MUS,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,14.7041348753811,..,12.41686937781
+Mauritius,MUS,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,16.9973537823603,..,7.86774207273521
+Mauritius,MUS,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,74.7327361658089,79.9984975957715,86.6359053043908,89.2772919975693,..,87.44277026075
+Mauritius,MUS,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,85.8156387778478,84.5860494320222,92.493737290723,90.6897874087959,..,91.6211848444009
+Mauritius,MUS,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,25.1514262671358,22.8775876772788,20.0886055098527,..,18.8775759029874
+Mauritius,MUS,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,25.1514262671358,22.8775876772788,20.2826922356693,..,18.8775759029874
+Mauritius,MUS,Saved at a bank or similar financial institution  (% age 15+),fin17a,30.8302169802094,35.5330819585906,24.3633846168477,28.8780755077474,..,30.4310708722893
+Mauritius,MUS,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,2.50923911905659,..,4.37689089142661
+Mauritius,MUS,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,30.8302169802094,35.5330819585906,24.3633846168477,29.1600300511533,..,31.859263548793
+Mauritius,MUS,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Mauritius,MUS,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Mauritius,MUS,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Mozambique,MOZ,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,26.957783634383,37.7877784749125,..,54.3509691875964
+Mozambique,MOZ,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,17.1010949344599,21.4781747409771,..,37.1610305760291
+Mozambique,MOZ,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,26.3084697427623,30.7772940986863,..,18.6592991837379
+Mozambique,MOZ,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,40.1544022537641,47.0026662669693,..,31.5613305023147
+Mozambique,MOZ,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,11.0257596951055,10.2680473546993,..,6.27755785238313
+Mozambique,MOZ,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,11.0257596951055,14.9511579132253,..,14.5313778461276
+Mozambique,MOZ,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,..,10.7993764187112,10.8775201299518,..,8.26727525679191
+Mozambique,MOZ,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,10.3092238424162,..,15.7205112392079
+Mozambique,MOZ,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,..,10.7993764187112,16.9655550886898,..,19.8193741747928
+Mozambique,MOZ,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,6.9604865187851
+Mozambique,MOZ,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,16.2454616998871
+Mozambique,MOZ,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.327675810753583
+Namibia,NAM,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,12.5339858967084,45.0160643840293,44.4438187361628,..,49.0730327471903
+Namibia,NAM,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,8.39507362276729,42.0497347209302,41.03237257215,..,47.860459637985
+Namibia,NAM,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,56.023033464691,77.6149590467635,62.4216548664793,..,66.0655816212293
+Namibia,NAM,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,60.3225043315565,77.0328354401162,69.175740765799,..,59.1068803802402
+Namibia,NAM,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,11.8359229840032,16.9411498738494,20.9640694484096,..,14.5632925655224
+Namibia,NAM,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,11.8359229840032,16.9411498738494,23.3954139923209,..,21.8116190913917
+Namibia,NAM,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,26.6872197416184,34.4358842268028,33.7195254944091,..,36.372573232344
+Namibia,NAM,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,11.2435956668616,..,17.5230796199068
+Namibia,NAM,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,26.6872197416184,34.4358842268028,36.2619739897233,..,43.552821834515
+Namibia,NAM,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,36.5982340692165
+Namibia,NAM,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,17.5576566823448
+Namibia,NAM,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,6.95315892879966
+Niger,NER,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Niger,NER,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Niger,NER,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,..,10.9890322421344
+Niger,NER,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,..,14.4493244612082
+Niger,NER,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.23858097039198,3.79921226635677,..,3.06063906978898,2.5199873018986
+Niger,NER,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.23858097039198,3.79921226635677,..,3.55354590304381,2.94310817799141
+Niger,NER,Saved at a bank or similar financial institution  (% age 15+),fin17a,1.16439953207824,1.98198371571832,1.90352939353012,..,2.50685057867359,3.45092977145132
+Niger,NER,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,1.30023336458653,2.34406722858788
+Niger,NER,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,1.16439953207824,1.98198371571832,1.90352939353012,..,3.30477738869238,5.23103684132572
+Niger,NER,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,1.32291065139787
+Niger,NER,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,1.13828489862582
+Niger,NER,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.324901407311064
+Nigeria,NGA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,40.5595792994516
+Nigeria,NGA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,25.018947424648
+Nigeria,NGA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,25.9904013803634,33.5576513918373,27.0897656449239,34.8073783254192,..,49.3388452755326
+Nigeria,NGA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,33.2768925034846,54.2802713473933,51.0753327883771,55.2561332732817,..,70.1125857896615
+Nigeria,NGA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,6.97877779080223,5.30332817240483,6.3985120263853,..,6.11485663281684
+Nigeria,NGA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,6.97877779080223,5.30332817240483,7.03728535080979,..,9.11294873626081
+Nigeria,NGA,Saved at a bank or similar financial institution  (% age 15+),fin17a,23.5937386530564,27.0703658249014,20.5517188369336,17.7296934568046,..,37.6985759713078
+Nigeria,NGA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,1.58590973172472,..,18.9225475471162
+Nigeria,NGA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,23.5937386530564,27.0703658249014,20.5517188369336,17.923843539618,..,43.3504896546611
+Nigeria,NGA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,18.5755915168641
+Nigeria,NGA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,6.21392834551107
+Nigeria,NGA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,0.565806196091084
+Rwanda,RWA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,20.1063626635926,36.8865747873269,..,..,..
+Rwanda,RWA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,16.1272142379063,26.0144713327033,..,..,..
+Rwanda,RWA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,28.2467125980262,30.5095571195196,33.2122895033141,..,..,..
+Rwanda,RWA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,37.5087208412817,45.9282630464778,40.5562168821738,..,..,..
+Rwanda,RWA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,8.39122429224689,8.08560580000023,..,..,..
+Rwanda,RWA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,8.39122429224689,8.08560580000023,..,..,..
+Rwanda,RWA,Saved at a bank or similar financial institution  (% age 15+),fin17a,17.8392692899954,25.5344317090476,18.9214078089548,..,..,..
+Rwanda,RWA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Rwanda,RWA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,17.8392692899954,25.5344317090476,18.9214078089548,..,..,..
+Rwanda,RWA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Rwanda,RWA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Rwanda,RWA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Senegal,SEN,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,34.8856946187253,52.2381288729206,..,71.4921166418495
+Senegal,SEN,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,29.0533896637247,38.3203468653576,..,62.7466692345098
+Senegal,SEN,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,8.24185040613992,15.7375611730576,24.2709693542844,..,44.4307730785862
+Senegal,SEN,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,16.0377950307167,25.5529591091672,32.4566929821119,..,52.0275982707342
+Senegal,SEN,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,3.96844063796577,7.81602632192992,9.97247550831054,..,17.555626502548
+Senegal,SEN,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,3.96844063796577,7.81602632192992,12.8863126973233,..,22.6686194680267
+Senegal,SEN,Saved at a bank or similar financial institution  (% age 15+),fin17a,3.71661058793836,6.56954753904225,7.2872954171013,8.79151584181189,..,24.1449967401206
+Senegal,SEN,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,29.1373245722333,..,54.7431519940916
+Senegal,SEN,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,3.71661058793836,6.56954753904225,7.2872954171013,32.8769079351355,..,58.2986483684044
+Senegal,SEN,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,12.571453320674
+Senegal,SEN,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,26.0554532507343
+Senegal,SEN,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,1.33172163460125
+Sierra Leone,SLE,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,13.5757681575376,21.5392934890956,..,33.5757176602578
+Sierra Leone,SLE,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,8.72595628091125,16.7704670435761,..,30.8991125744516
+Sierra Leone,SLE,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,12.8025352125246,11.0640927893262,9.80096062742865,10.4908910872242,..,13.1998743715121
+Sierra Leone,SLE,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,18.0477929654683,17.5030374208637,15.2713148277357,17.3967877596731,..,16.9434227996002
+Sierra Leone,SLE,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,4.13538414316547,5.19576405745962,4.2819394319737,..,5.35097164060639
+Sierra Leone,SLE,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,4.13538414316547,5.19576405745962,5.62528169301254,..,9.34573117387643
+Sierra Leone,SLE,Saved at a bank or similar financial institution  (% age 15+),fin17a,14.4904517355111,10.94297016324,5.17982259795955,4.87508167917976,..,6.20457055424828
+Sierra Leone,SLE,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,7.68218368397263,..,19.8538947870267
+Sierra Leone,SLE,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,14.4904517355111,10.94297016324,5.17982259795955,11.0824275728992,..,22.0047379756721
+Sierra Leone,SLE,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,4.90494119145706
+Sierra Leone,SLE,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,9.77177024262139
+Sierra Leone,SLE,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.5999056644931
+Somalia,SOM,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,41.9855907362015,..,..,..,..
+Somalia,SOM,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,32.055848643666,..,..,..,..
+Somalia,SOM,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,..,..
+Somalia,SOM,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,..,..
+Somalia,SOM,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,2.11173180495924,..,..,..,..
+Somalia,SOM,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,2.11173180495924,..,..,..,..
+Somalia,SOM,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,2.8192718405589,..,..,..,..
+Somalia,SOM,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Somalia,SOM,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,2.8192718405589,..,..,..,..
+Somalia,SOM,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Somalia,SOM,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Somalia,SOM,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+South Africa,ZAF,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,15.0296173535338,19.4188366461018,34.1010940189829,..,40.1145917711867
+South Africa,ZAF,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,13.8886155434102,18.6401766111656,38.9901302923146,..,24.2004247169044
+South Africa,ZAF,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,51.0233654425798,68.7651486436213,68.1287202077315,84.9034461029602,..,79.737889719525
+South Africa,ZAF,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,56.3800355322416,68.7695588077095,66.6986131183102,83.3080939843437,..,76.9403097294929
+South Africa,ZAF,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,18.907406211775,13.5039677120329,18.2124322043513,..,12.3502420599932
+South Africa,ZAF,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,18.907406211775,13.5039677120329,18.9885620286693,..,13.2228042052269
+South Africa,ZAF,Saved at a bank or similar financial institution  (% age 15+),fin17a,22.0800266437892,32.7262150840567,22.0916282501737,37.2065515608911,..,31.9615894978079
+South Africa,ZAF,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,9.61206782783629,..,11.1428525525615
+South Africa,ZAF,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,22.0800266437892,32.7262150840567,22.0916282501737,40.5406035814681,..,35.8042343020261
+South Africa,ZAF,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,38.1462372575756
+South Africa,ZAF,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,6.13524340003698
+South Africa,ZAF,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,2.6091568273065
+South Sudan,SSD,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+South Sudan,SSD,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+South Sudan,SSD,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,..,..,..,..,..
+South Sudan,SSD,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,..,..,..,..,..
+South Sudan,SSD,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,..,3.35125796671482,2.47287386679031,..,..
+South Sudan,SSD,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,..,3.35125796671482,2.6335273732576,..,..
+South Sudan,SSD,Saved at a bank or similar financial institution  (% age 15+),fin17a,..,..,3.72421947787219,1.49375079595124,..,..
+South Sudan,SSD,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,0.730050725237431,..,..
+South Sudan,SSD,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,..,..,3.72421947787219,1.72235794550914,..,..
+South Sudan,SSD,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+South Sudan,SSD,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+South Sudan,SSD,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Sudan,SDN,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..,..
+Sudan,SDN,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..,..
+Sudan,SDN,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,..,9.98316105750736,..,..,..,..
+Sudan,SDN,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,..,20.223826520119,..,..,..,..
+Sudan,SDN,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,4.22487235538713,..,..,..,..
+Sudan,SDN,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,4.22487235538713,..,..,..,..
+Sudan,SDN,Saved at a bank or similar financial institution  (% age 15+),fin17a,3.40926684927786,7.4698499903566,..,..,..,..
+Sudan,SDN,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,..,..,..
+Sudan,SDN,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,3.40926684927786,7.4698499903566,..,..,..,..
+Sudan,SDN,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,..
+Sudan,SDN,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,..
+Sudan,SDN,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,..
+Tanzania,TZA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,38.3763571269831,44.1140603189327,49.2212654529244,..,56.2354787548884
+Tanzania,TZA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,26.5774416368495,33.1973318882919,40.2908725223915,..,49.8505110321982
+Tanzania,TZA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,13.8239817090313,17.0953115695355,18.9777183797239,15.7493328833848,..,17.124980186219
+Tanzania,TZA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,20.7948508640975,21.0667206932707,23.0546319650794,31.5162204007472,..,27.3699186383519
+Tanzania,TZA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,6.74200000827858,5.29442630000626,4.44572196722817,..,4.94922746533714
+Tanzania,TZA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,6.74200000827858,5.29442630000626,13.3400760154546,..,9.10343968746119
+Tanzania,TZA,Saved at a bank or similar financial institution  (% age 15+),fin17a,11.9130725061884,9.00431883739567,6.10644698091789,6.2707637666644,..,7.56729100888022
+Tanzania,TZA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,19.2233563527544,..,22.5593383600204
+Tanzania,TZA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,11.9130725061884,9.00431883739567,6.10644698091789,22.1298893600633,..,25.9080602418771
+Tanzania,TZA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,4.25932147199444
+Tanzania,TZA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,31.0883636157115
+Tanzania,TZA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,2.43756529559345
+Togo,TGO,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,..,26.9747715154345,41.2980097226267,..,61.3967253748056
+Togo,TGO,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,..,15.9853790161296,31.9243267663932,..,35.1027482231994
+Togo,TGO,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,9.21766924099931,14.4363463661678,28.6215287428012,21.4549285749789,..,26.2930287813707
+Togo,TGO,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,11.1866442660827,20.8987881511708,39.5595401150777,28.54250431283,..,38.8370971096536
+Togo,TGO,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,3.97581941062756,9.14330825458104,7.41915976665746,..,11.635430136008
+Togo,TGO,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,3.97581941062756,9.14330825458104,8.18871010074551,..,13.4400031965241
+Togo,TGO,Saved at a bank or similar financial institution  (% age 15+),fin17a,3.63060820302267,6.66526673354689,11.7776070021449,11.6521382947079,..,19.8663196812398
+Togo,TGO,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,9.26067413010308,..,21.1602949801951
+Togo,TGO,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,3.63060820302267,6.66526673354689,11.7776070021449,18.4148962345627,..,32.0968564506289
+Togo,TGO,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,11.2917969064649
+Togo,TGO,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,24.9469856880944
+Togo,TGO,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,3.76802365258811
+Uganda,UGA,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,41.2346692034548,58.6420842131019,54.526383200572,..,74.6449534919064
+Uganda,UGA,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,29.0394904312027,42.9717458782151,53.1544001122042,..,61.7415111193801
+Uganda,UGA,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,15.0635186201917,23.139543404831,27.1156613170329,35.3344002618097,..,19.8752875550709
+Uganda,UGA,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,25.7830122357305,32.4835468199507,38.9122178272796,37.9559242158678,..,33.4269415322949
+Uganda,UGA,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,16.089448049639,14.6707082818519,18.6113704230784,..,10.835951541821
+Uganda,UGA,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,16.089448049639,14.6707082818519,28.9955265942032,..,29.0448882485483
+Uganda,UGA,Saved at a bank or similar financial institution  (% age 15+),fin17a,16.3309892435361,16.7783637487173,12.7026327336178,15.8916743650053,..,13.4445493626606
+Uganda,UGA,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,31.8169337550475,..,48.8288827549265
+Uganda,UGA,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,16.3309892435361,16.7783637487173,12.7026327336178,38.634468093866,..,53.6449230023157
+Uganda,UGA,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,7.03700719882767
+Uganda,UGA,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,25.4813990325261
+Uganda,UGA,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.30447418173295
+Zambia,ZMB,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,14.853615109722,29.9460591256822,44.2645331033277,..,73.2352723495737
+Zambia,ZMB,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,9.47742488524294,25.823081210465,39.2808472235926,..,65.711485423171
+Zambia,ZMB,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,23.3373853809143,29.7028106818743,28.5691763212115,21.3934024192593,..,19.1173297893458
+Zambia,ZMB,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,19.3929234877127,32.9437688167247,43.3942179470972,26.5904409149422,..,29.4751900717235
+Zambia,ZMB,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,5.65219141897562,10.4101568104369,6.75033802732531,..,6.62073490441563
+Zambia,ZMB,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,5.65219141897562,10.4101568104369,14.7828678361841,..,18.1364494586296
+Zambia,ZMB,Saved at a bank or similar financial institution  (% age 15+),fin17a,11.7658527065936,16.8443592193266,13.565294362725,8.15213244308984,..,9.54378090409874
+Zambia,ZMB,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,25.6671204778689,..,46.4766379345497
+Zambia,ZMB,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,11.7658527065936,16.8443592193266,13.565294362725,28.9509269589346,..,50.1218929200166
+Zambia,ZMB,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,7.70840423633128
+Zambia,ZMB,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,16.8108227066674
+Zambia,ZMB,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,3.75353982133687
+Zimbabwe,ZWE,"Mobile money account, men (% age 15+)",mobileaccount.t.d.2,..,24.2077382836352,51.1731724947713,55.6487640483814,..,47.1589137171279
+Zimbabwe,ZWE,"Mobile money account, women (% age 15+)",mobileaccount.t.d.1,..,19.096979089115,46.2018599218938,45.8992056471716,..,39.9725706383566
+Zimbabwe,ZWE,"Bank or similar financial institution account, women (% age 15+)",fiaccount.t.d.1,37.1244111339536,15.3363772170384,23.3400166189628,23.9010269223203,..,19.0235024295338
+Zimbabwe,ZWE,"Bank or similar financial institution account, men (% age 15+)",fiaccount.t.d.2,42.5455749456014,19.1269174459046,33.4506396079702,34.9182502735752,..,24.4630545368656
+Zimbabwe,ZWE,Borrowed from a formal bank or similar financial institution  (% age 15+),fin22a,..,4.33172863312673,4.72400367024086,2.88644347326737,..,2.90825624530331
+Zimbabwe,ZWE,Borrowed any money from a formal bank or similar financial institution or using a mobile money account  (% age 15+),fin22a.22a1.22g.d,..,4.33172863312673,4.72400367024086,7.22621971972311,..,6.34146240265946
+Zimbabwe,ZWE,Saved at a bank or similar financial institution  (% age 15+),fin17a,17.2682399428983,5.19406162199756,5.31123850463518,4.08851771951058,..,3.30636176065889
+Zimbabwe,ZWE,Saved money using a mobile money account  (% age 15+),fin17b,..,..,..,9.42062503290648,..,12.5611572063273
+Zimbabwe,ZWE,Saved at a bank or similar financial institution or using a mobile money account  (% age 15+),fin17a.17a1.d,17.2682399428983,5.19406162199756,5.31123850463518,12.0305118636693,..,13.6924551921877
+Zimbabwe,ZWE,"Sent or withdrew money from a bank or similar financial institution, monthly (%,  age 15+) (% age 15+)",fin6m,..,..,..,..,..,9.75472463244777
+Zimbabwe,ZWE,"Sent money from a mobile money account, less than once a month  (% age 15+)",fin13blm,..,..,..,..,..,23.2237045232041
+Zimbabwe,ZWE,"Sent or withdrew money from a mobile money account, Never (%  age 15+) (% age 15+)",fin13bn,..,..,..,..,..,4.57768742736453
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: Global Findex database,,,,,,,,,
+Last Updated: 10/06/2025,,,,,,,,,

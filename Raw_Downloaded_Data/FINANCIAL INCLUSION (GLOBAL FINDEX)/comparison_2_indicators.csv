@@ -1,0 +1,608 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2014 [YR2014],2017 [YR2017],2021 [YR2021],2022 [YR2022],2024 [YR2024]
+Angola,AGO,Saved any money  (% age 15+),save.any.t.d,..,53.0579030355254,..,..,..,..
+Angola,AGO,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Angola,AGO,Received government payments  (% age 15+),fing2p,..,..,..,..,..,..
+Angola,AGO,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Angola,AGO,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Angola,AGO,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Angola,AGO,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Angola,AGO,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Angola,AGO,Received private sector wages  (% age 15+),fin32.n33,..,5.80599216139339,..,..,..,..
+Angola,AGO,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Angola,AGO,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Angola,AGO,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Angola,AGO,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Angola,AGO,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Benin,BEN,Saved any money  (% age 15+),save.any.t.d,..,61.099577903494,49.3417632296652,47.0441571416097,..,58.2242556860112
+Benin,BEN,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,4.20947800062833,..,5.25344187338612
+Benin,BEN,Received government payments  (% age 15+),fing2p,..,..,9.20176640354992,7.33875143403366,..,6.73257195289246
+Benin,BEN,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Benin,BEN,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Benin,BEN,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Benin,BEN,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Benin,BEN,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Benin,BEN,Received private sector wages  (% age 15+),fin32.n33,..,9.74610622512064,10.7030784859897,11.7984424644228,..,8.4751985447537
+Benin,BEN,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Benin,BEN,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Benin,BEN,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Benin,BEN,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Benin,BEN,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Botswana,BWA,Saved any money  (% age 15+),save.any.t.d,..,58.1685612727885,46.8432360054172,..,52.0439103886249,54.7435093880444
+Botswana,BWA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,2.90110379595349,19.3960381380921
+Botswana,BWA,Received government payments  (% age 15+),fing2p,..,..,21.4130599999536,..,20.6928786281959,21.2597084337341
+Botswana,BWA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,48.4987723371974,..
+Botswana,BWA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,58.8986473903129,..,61.0099189644934,49.2645380861068
+Botswana,BWA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Botswana,BWA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Botswana,BWA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Botswana,BWA,Received private sector wages  (% age 15+),fin32.n33,..,21.6029252257312,19.8673055057459,..,20.7208318783094,21.8380893362876
+Botswana,BWA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,51.6642350991808,..,..,..,..
+Botswana,BWA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,51.5993054367894,51.812418298682
+Botswana,BWA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,53.9976672140525,..,68.6912165437351,74.2945433822646
+Botswana,BWA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,63.0267146069131
+Botswana,BWA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Burkina Faso,BFA,Saved any money  (% age 15+),save.any.t.d,..,50.8167668602654,53.9315979495263,47.9752841523788,..,56.0208991212203
+Burkina Faso,BFA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.55885072421668,..,3.05094903895757
+Burkina Faso,BFA,Received government payments  (% age 15+),fing2p,..,..,16.0293625181765,9.9462176242287,..,14.6317540316236
+Burkina Faso,BFA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Burkina Faso,BFA,Received private sector wages  (% age 15+),fin32.n33,..,7.09083022908612,14.5822235012378,11.4287364565505,..,14.1801346975987
+Burkina Faso,BFA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Burkina Faso,BFA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Burundi,BDI,Saved any money  (% age 15+),save.any.t.d,..,34.8990716707599,..,..,..,..
+Burundi,BDI,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Burundi,BDI,Received government payments  (% age 15+),fing2p,..,..,..,..,..,..
+Burundi,BDI,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Burundi,BDI,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Burundi,BDI,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Burundi,BDI,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Burundi,BDI,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Burundi,BDI,Received private sector wages  (% age 15+),fin32.n33,..,5.77036477270177,..,..,..,..
+Burundi,BDI,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Burundi,BDI,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Burundi,BDI,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Burundi,BDI,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Burundi,BDI,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Cameroon,CMR,Saved any money  (% age 15+),save.any.t.d,..,63.9611538633586,56.9708889330235,59.0254555017101,..,65.6565630265154
+Cameroon,CMR,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,5.0814155486877,..,7.21072901535931
+Cameroon,CMR,Received government payments  (% age 15+),fing2p,..,..,9.59394221298625,8.86038011740412,..,10.0422920717433
+Cameroon,CMR,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Cameroon,CMR,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Cameroon,CMR,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Cameroon,CMR,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Cameroon,CMR,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Cameroon,CMR,Received private sector wages  (% age 15+),fin32.n33,..,11.2230959012968,15.7817302912151,19.3269885636218,..,20.6007436979009
+Cameroon,CMR,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,66.3909545649033,..,..,51.7779453677212
+Cameroon,CMR,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Cameroon,CMR,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Cameroon,CMR,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Cameroon,CMR,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Central African Republic,CAF,Saved any money  (% age 15+),save.any.t.d,..,..,39.7316525888136,..,..,..
+Central African Republic,CAF,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Central African Republic,CAF,Received government payments  (% age 15+),fing2p,..,..,7.27052904673065,..,..,..
+Central African Republic,CAF,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Central African Republic,CAF,Received private sector wages  (% age 15+),fin32.n33,..,..,8.41579382392956,..,..,..
+Central African Republic,CAF,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Central African Republic,CAF,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Chad,TCD,Saved any money  (% age 15+),save.any.t.d,..,48.5778533630564,26.8785689306733,..,38.3459444565144,45.5477898747124
+Chad,TCD,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,3.39215074274854,3.85384667457243
+Chad,TCD,Received government payments  (% age 15+),fing2p,..,..,6.43313958574545,..,14.75814821498,10.7769301851158
+Chad,TCD,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Chad,TCD,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Chad,TCD,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Chad,TCD,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Chad,TCD,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Chad,TCD,Received private sector wages  (% age 15+),fin32.n33,..,7.8037333742894,8.22101685505824,..,10.6982454529697,8.69158745025877
+Chad,TCD,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Chad,TCD,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Chad,TCD,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Chad,TCD,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Chad,TCD,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Comoros,COM,Saved any money  (% age 15+),save.any.t.d,..,..,..,..,40.8047429380382,44.3154864062275
+Comoros,COM,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,1.16745800490439,3.31856464464873
+Comoros,COM,Received government payments  (% age 15+),fing2p,..,..,..,..,9.23793816200516,14.2223182523613
+Comoros,COM,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Comoros,COM,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Comoros,COM,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Comoros,COM,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Comoros,COM,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Comoros,COM,Received private sector wages  (% age 15+),fin32.n33,..,..,..,..,13.2702499850402,9.00528745843243
+Comoros,COM,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Comoros,COM,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Comoros,COM,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Comoros,COM,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Comoros,COM,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Saved any money  (% age 15+),save.any.t.d,..,65.2045653837019,38.9366710629637,..,36.3743972555445,57.9627129792869
+"Congo, Dem. Rep.",COD,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,2.04091989710951,5.53781326151028
+"Congo, Dem. Rep.",COD,Received government payments  (% age 15+),fing2p,..,..,6.0581534603878,..,5.40553314521526,7.87178776257941
+"Congo, Dem. Rep.",COD,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Received private sector wages  (% age 15+),fin32.n33,..,10.440130091745,9.84553021629455,..,10.8559850299524,16.3614611849215
+"Congo, Dem. Rep.",COD,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,82.0730340781359
+"Congo, Dem. Rep.",COD,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+"Congo, Rep.",COG,Saved any money  (% age 15+),save.any.t.d,..,55.9035920764765,45.669753105175,45.5676306071505,..,53.7904532881842
+"Congo, Rep.",COG,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,4.40022451781777,..,3.81999585445206
+"Congo, Rep.",COG,Received government payments  (% age 15+),fing2p,..,..,7.26461629284209,8.69434161575212,..,7.62915746135988
+"Congo, Rep.",COG,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+"Congo, Rep.",COG,Received private sector wages  (% age 15+),fin32.n33,..,12.3117578642149,13.8695043908498,9.81704746924187,..,10.7054986747614
+"Congo, Rep.",COG,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+"Congo, Rep.",COG,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,Saved any money  (% age 15+),save.any.t.d,..,63.2309628734743,48.982832717549,42.7883695719875,..,64.2959056226296
+Cote d'Ivoire,CIV,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,4.51940089905513,..,3.03544822401927
+Cote d'Ivoire,CIV,Received government payments  (% age 15+),fing2p,..,..,6.3151500508143,6.75884380707379,..,8.47347267886546
+Cote d'Ivoire,CIV,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,Received private sector wages  (% age 15+),fin32.n33,..,15.6388644398198,12.6873915752426,12.2847894572995,..,16.8594840428034
+Cote d'Ivoire,CIV,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,83.3963496653513,..,..,..,..
+Cote d'Ivoire,CIV,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Cote d'Ivoire,CIV,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Eswatini,SWZ,Saved any money  (% age 15+),save.any.t.d,..,..,..,..,58.2447951323243,58.3015914248017
+Eswatini,SWZ,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,27.5239998662428,17.4413479739861
+Eswatini,SWZ,Received government payments  (% age 15+),fing2p,..,..,..,..,27.6262296188203,29.1950319005946
+Eswatini,SWZ,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,35.494739684088
+Eswatini,SWZ,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,60.9719643398721,55.1143951321009
+Eswatini,SWZ,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,45.6382590872702,38.7690025722273
+Eswatini,SWZ,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Eswatini,SWZ,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Eswatini,SWZ,Received private sector wages  (% age 15+),fin32.n33,..,..,..,..,17.8380648336977,22.3937387184562
+Eswatini,SWZ,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Eswatini,SWZ,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,46.6759439754367
+Eswatini,SWZ,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,78.742620389346,67.6972610340999
+Eswatini,SWZ,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Eswatini,SWZ,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Ethiopia,ETH,Saved any money  (% age 15+),save.any.t.d,..,48.1070116062815,62.1826431476983,..,53.0915137561123,49.0748224352738
+Ethiopia,ETH,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,0.646939867499471,1.84609215805269
+Ethiopia,ETH,Received government payments  (% age 15+),fing2p,..,..,13.2675967287337,..,10.8139444618285,6.52339482166122
+Ethiopia,ETH,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Ethiopia,ETH,Received private sector wages  (% age 15+),fin32.n33,..,4.46826567690117,10.557396286781,..,7.63314673780338,6.01960799403634
+Ethiopia,ETH,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Ethiopia,ETH,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Gabon,GAB,Saved any money  (% age 15+),save.any.t.d,..,56.0127454041917,59.6024432410211,61.4953051649178,..,69.6998433819944
+Gabon,GAB,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,7.36077269887092,..,2.44478383962867
+Gabon,GAB,Received government payments  (% age 15+),fing2p,..,..,17.9511770817365,13.1354641175753,..,12.58990166495
+Gabon,GAB,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Gabon,GAB,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,57.1451318064953,..,..,..
+Gabon,GAB,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Gabon,GAB,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Gabon,GAB,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Gabon,GAB,Received private sector wages  (% age 15+),fin32.n33,..,13.0768788086056,24.1281026209643,27.4960485541493,..,22.4315723247953
+Gabon,GAB,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,58.6501442894084,54.518046694413,..,60.7068431556011
+Gabon,GAB,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Gabon,GAB,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,44.3193909070016,..,..
+Gabon,GAB,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Gabon,GAB,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+"Gambia, The",GMB,Saved any money  (% age 15+),save.any.t.d,..,..,45.8106878990826,..,51.2100444936464,56.4381633350272
+"Gambia, The",GMB,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,0.244540390607708,0.795482811834014
+"Gambia, The",GMB,Received government payments  (% age 15+),fing2p,..,..,16.7136158265641,..,11.6011493335678,9.80628626426489
+"Gambia, The",GMB,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+"Gambia, The",GMB,Received private sector wages  (% age 15+),fin32.n33,..,..,11.4950395153214,..,16.1087897399543,8.39670165988736
+"Gambia, The",GMB,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+"Gambia, The",GMB,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Ghana,GHA,Saved any money  (% age 15+),save.any.t.d,..,55.3160442955439,50.2400169470116,68.5652771093343,..,82.013131395832
+Ghana,GHA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,11.9736572115268,..,21.9270780258923
+Ghana,GHA,Received government payments  (% age 15+),fing2p,..,..,15.4127255069727,11.9114113853656,..,11.7685198524821
+Ghana,GHA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Ghana,GHA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,70.0621457261539,..,..,..
+Ghana,GHA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Ghana,GHA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Ghana,GHA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Ghana,GHA,Received private sector wages  (% age 15+),fin32.n33,..,9.35722982638749,16.2302765841998,20.2295972692107,..,22.4707760673512
+Ghana,GHA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,58.4072152996742,..,..
+Ghana,GHA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Ghana,GHA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,74.0842611673912
+Ghana,GHA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,61.5308990771445
+Ghana,GHA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Guinea,GIN,Saved any money  (% age 15+),save.any.t.d,..,45.194101488746,39.0894433323918,44.6706118408685,..,51.41961195603
+Guinea,GIN,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.14332097271208,..,5.86424241072977
+Guinea,GIN,Received government payments  (% age 15+),fing2p,..,..,10.100301446853,9.12840812791696,..,11.2847359708932
+Guinea,GIN,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Guinea,GIN,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Guinea,GIN,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Guinea,GIN,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Guinea,GIN,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Guinea,GIN,Received private sector wages  (% age 15+),fin32.n33,..,7.93360493932349,11.1829408490475,9.29926995618873,..,5.90851440538097
+Guinea,GIN,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Guinea,GIN,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Guinea,GIN,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Guinea,GIN,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Guinea,GIN,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Kenya,KEN,Saved any money  (% age 15+),save.any.t.d,..,76.0648717569819,70.3241740301593,66.7671320369555,..,70.1941670327483
+Kenya,KEN,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,29.6369870123126,..,32.3654073107561
+Kenya,KEN,Received government payments  (% age 15+),fing2p,..,..,19.3331195565047,17.2063149831794,..,17.1889204537774
+Kenya,KEN,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,61.2135097904593,..,..,59.054200075573
+Kenya,KEN,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,76.1582771288441,73.2107314794015,..,81.2734184848501
+Kenya,KEN,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Kenya,KEN,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Kenya,KEN,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Kenya,KEN,Received private sector wages  (% age 15+),fin32.n33,..,21.6178019061974,28.4347025884766,24.1285199426547,..,26.2883447955206
+Kenya,KEN,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,37.6028628151698,..,..,..
+Kenya,KEN,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Kenya,KEN,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,60.3096090863705,60.4713359148488,75.6136760486134,..,81.1812050561477
+Kenya,KEN,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,37.3242828208681,60.5440791246106,..,70.7290405709424
+Kenya,KEN,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Lesotho,LSO,Saved any money  (% age 15+),save.any.t.d,..,..,39.5405440599768,..,53.8290592345677,54.1563266326388
+Lesotho,LSO,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,9.92072386673323,13.1830162500053
+Lesotho,LSO,Received government payments  (% age 15+),fing2p,..,..,19.5583788177812,..,22.2372602918247,17.0635068452328
+Lesotho,LSO,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Lesotho,LSO,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,45.6296414423181,60.6908392726742
+Lesotho,LSO,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Lesotho,LSO,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Lesotho,LSO,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Lesotho,LSO,Received private sector wages  (% age 15+),fin32.n33,..,..,15.4113380656453,..,24.0703574033554,20.5660409105589
+Lesotho,LSO,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Lesotho,LSO,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Lesotho,LSO,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,55.1891721033531,63.2957627172659
+Lesotho,LSO,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Lesotho,LSO,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Liberia,LBR,Saved any money  (% age 15+),save.any.t.d,..,..,68.0941446156456,58.0603353188977,..,70.1699349948463
+Liberia,LBR,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.82911137092949,..,4.91068551361085
+Liberia,LBR,Received government payments  (% age 15+),fing2p,..,..,8.9882223317178,11.396662370188,..,8.8361624428961
+Liberia,LBR,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Liberia,LBR,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Liberia,LBR,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Liberia,LBR,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Liberia,LBR,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Liberia,LBR,Received private sector wages  (% age 15+),fin32.n33,..,..,14.8320064924894,14.0970445427485,..,14.8991675959505
+Liberia,LBR,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,77.5999782837347,..,..,72.5440413593198
+Liberia,LBR,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Liberia,LBR,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Liberia,LBR,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Liberia,LBR,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Libya,LBY,Saved any money  (% age 15+),save.any.t.d,..,..,61.3263711060076,..,..,36.9997340340632
+Libya,LBY,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Libya,LBY,Received government payments  (% age 15+),fing2p,..,..,23.1367691067265,..,..,..
+Libya,LBY,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,60.9446497339832,..,..,..
+Libya,LBY,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,62.9921882295685,..,..,..
+Libya,LBY,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Libya,LBY,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Libya,LBY,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Libya,LBY,Received private sector wages  (% age 15+),fin32.n33,..,..,17.2161103453448,..,..,..
+Libya,LBY,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,68.5096311967509,..,..,..
+Libya,LBY,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Libya,LBY,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Libya,LBY,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Libya,LBY,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Madagascar,MDG,Saved any money  (% age 15+),save.any.t.d,..,39.670146526716,44.2870491211488,..,29.8302926095501,29.3806618689516
+Madagascar,MDG,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,4.32412693567096,4.42213724383318
+Madagascar,MDG,Received government payments  (% age 15+),fing2p,..,..,5.16671303433834,..,7.30813519776173,5.58961077856974
+Madagascar,MDG,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Madagascar,MDG,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Madagascar,MDG,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Madagascar,MDG,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Madagascar,MDG,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Madagascar,MDG,Received private sector wages  (% age 15+),fin32.n33,..,26.3629462710204,28.0320599584692,..,16.021719135104,20.6554335365956
+Madagascar,MDG,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,97.6033529317729,83.8462374675857,..,..,70.97050173815
+Madagascar,MDG,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Madagascar,MDG,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Madagascar,MDG,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Madagascar,MDG,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Malawi,MWI,Saved any money  (% age 15+),save.any.t.d,..,59.7115684704492,51.8270054325259,52.7127096306556,..,61.2850136319703
+Malawi,MWI,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.72036448875773,..,5.17543462986011
+Malawi,MWI,Received government payments  (% age 15+),fing2p,..,..,11.4953001812255,10.4319580251366,..,9.71580514091635
+Malawi,MWI,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Malawi,MWI,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Malawi,MWI,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Malawi,MWI,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Malawi,MWI,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Malawi,MWI,Received private sector wages  (% age 15+),fin32.n33,..,16.6742414381909,21.4919000144751,23.4328324591634,..,12.0211856547538
+Malawi,MWI,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,83.4984509946419,56.4100774767851,64.8642852533323,..,..
+Malawi,MWI,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Malawi,MWI,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Malawi,MWI,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Malawi,MWI,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Mali,MLI,Saved any money  (% age 15+),save.any.t.d,..,44.9048841015694,53.8096513600852,56.4900637291117,..,65.7998588126691
+Mali,MLI,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.82503306207861,..,3.31145427009477
+Mali,MLI,Received government payments  (% age 15+),fing2p,..,..,13.327292964282,14.1953319216708,..,15.8497950366262
+Mali,MLI,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Mali,MLI,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Mali,MLI,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Mali,MLI,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Mali,MLI,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Mali,MLI,Received private sector wages  (% age 15+),fin32.n33,..,5.55704190156534,12.81574182062,15.1369035164038,..,13.1440763654958
+Mali,MLI,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Mali,MLI,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Mali,MLI,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Mali,MLI,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Mali,MLI,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Mauritania,MRT,Saved any money  (% age 15+),save.any.t.d,..,41.2015165147737,41.7446409024715,..,36.8289661891325,48.3171765514615
+Mauritania,MRT,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,1.63373992919072,..
+Mauritania,MRT,Received government payments  (% age 15+),fing2p,..,..,10.7095364359714,..,10.9199537710422,20.8895906013597
+Mauritania,MRT,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Mauritania,MRT,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,58.3030998210518
+Mauritania,MRT,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Mauritania,MRT,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Mauritania,MRT,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Mauritania,MRT,Received private sector wages  (% age 15+),fin32.n33,..,12.1209925962972,13.0267817375109,..,15.4177553322553,17.8550638143262
+Mauritania,MRT,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Mauritania,MRT,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Mauritania,MRT,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Mauritania,MRT,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Mauritania,MRT,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Mauritius,MUS,Saved any money  (% age 15+),save.any.t.d,..,54.1564802041359,60.1632973584132,55.2205293703767,..,48.3665408716927
+Mauritius,MUS,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,0.693945180287424,..,0.149774474982025
+Mauritius,MUS,Received government payments  (% age 15+),fing2p,..,..,36.733970696837,38.8406122243189,..,..
+Mauritius,MUS,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,74.7530947244789,89.3738289759832,..,..
+Mauritius,MUS,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,81.7157040899947,89.5403552917466,..,..
+Mauritius,MUS,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Mauritius,MUS,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Mauritius,MUS,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Mauritius,MUS,Received private sector wages  (% age 15+),fin32.n33,..,30.3583889355512,34.0514591241676,45.0081378951901,..,..
+Mauritius,MUS,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,30.338306015597,24.6932524484849,..,..
+Mauritius,MUS,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,65.7695930638141,63.0437705299863,70.164239286089,..,..
+Mauritius,MUS,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,65.7695930638141,65.1518840853397,71.4271227527933,..,..
+Mauritius,MUS,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Mauritius,MUS,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Mozambique,MOZ,Saved any money  (% age 15+),save.any.t.d,..,..,42.8764348011822,43.1435102518378,..,47.7015972224219
+Mozambique,MOZ,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,7.9891790959154,..,10.1754740836621
+Mozambique,MOZ,Received government payments  (% age 15+),fing2p,..,..,17.1869687140547,12.9877166937852,..,9.84870342015244
+Mozambique,MOZ,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Mozambique,MOZ,Received private sector wages  (% age 15+),fin32.n33,..,..,14.182241910953,11.6504053502085,..,6.95016644866067
+Mozambique,MOZ,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Mozambique,MOZ,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Namibia,NAM,Saved any money  (% age 15+),save.any.t.d,..,56.9430620111854,62.6936368926833,56.2764778721405,..,60.5640370172989
+Namibia,NAM,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,6.49308007953086,..,9.94508971215367
+Namibia,NAM,Received government payments  (% age 15+),fing2p,..,..,35.6544108789557,27.6960961985494,..,30.6011613923751
+Namibia,NAM,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,64.4020414748837,66.5439943508941,..,73.8851572862907
+Namibia,NAM,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,75.5320983944012,78.3742306372658,..,80.494473190783
+Namibia,NAM,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Namibia,NAM,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Namibia,NAM,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Namibia,NAM,Received private sector wages  (% age 15+),fin32.n33,..,18.0277337331599,23.4691152238087,21.0623791169509,..,17.8706078099647
+Namibia,NAM,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Namibia,NAM,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,62.6264373576728,66.2101988541649,..,75.7943212679304
+Namibia,NAM,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,74.0041535748505,82.4892847232192,..,86.0522525047774
+Namibia,NAM,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Namibia,NAM,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Niger,NER,Saved any money  (% age 15+),save.any.t.d,..,61.0201762110613,24.9844544363333,..,25.4238526263613,33.5381690279762
+Niger,NER,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,0.867602964514228,0.931208347836045
+Niger,NER,Received government payments  (% age 15+),fing2p,..,..,9.90068043287133,..,12.4368610543499,13.4542872729786
+Niger,NER,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Niger,NER,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Niger,NER,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Niger,NER,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Niger,NER,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Niger,NER,Received private sector wages  (% age 15+),fin32.n33,..,9.8474606895127,6.78886999059765,..,8.08304537272851,6.9080894584852
+Niger,NER,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Niger,NER,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Niger,NER,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Niger,NER,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Niger,NER,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Nigeria,NGA,Saved any money  (% age 15+),save.any.t.d,..,68.9753301305501,61.9603960708289,55.518352889004,..,72.2578469882864
+Nigeria,NGA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,0.701538183118188,..,4.35288311368027
+Nigeria,NGA,Received government payments  (% age 15+),fing2p,..,..,8.16352448952019,6.03746104375933,..,12.5808860385984
+Nigeria,NGA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Nigeria,NGA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Nigeria,NGA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Nigeria,NGA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Nigeria,NGA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Nigeria,NGA,Received private sector wages  (% age 15+),fin32.n33,..,9.81089318890469,13.0988411530155,14.7372335756239,..,21.2749385650299
+Nigeria,NGA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Nigeria,NGA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,62.2505867326352
+Nigeria,NGA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,70.4366244426837
+Nigeria,NGA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Nigeria,NGA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Rwanda,RWA,Saved any money  (% age 15+),save.any.t.d,..,55.1771713051058,63.8098038392983,..,..,..
+Rwanda,RWA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Rwanda,RWA,Received government payments  (% age 15+),fing2p,..,..,13.0881722107757,..,..,..
+Rwanda,RWA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Rwanda,RWA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Rwanda,RWA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Rwanda,RWA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Rwanda,RWA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Rwanda,RWA,Received private sector wages  (% age 15+),fin32.n33,..,13.1326171206587,31.0356104849612,..,..,..
+Rwanda,RWA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,68.3011091122041,..,..,..
+Rwanda,RWA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Rwanda,RWA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Rwanda,RWA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Rwanda,RWA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Senegal,SEN,Saved any money  (% age 15+),save.any.t.d,..,59.0461647574898,45.1069901595244,58.5153015088202,..,77.7029304765933
+Senegal,SEN,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,4.45565876831156,..,11.2848836882836
+Senegal,SEN,Received government payments  (% age 15+),fing2p,..,..,12.8726120265084,11.6427868648917,..,16.5084369186259
+Senegal,SEN,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Senegal,SEN,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,81.8176788334565
+Senegal,SEN,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,69.9888792482094
+Senegal,SEN,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Senegal,SEN,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Senegal,SEN,Received private sector wages  (% age 15+),fin32.n33,..,11.0737437612499,12.0722594143279,17.1965149804619,..,25.5638824612905
+Senegal,SEN,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Senegal,SEN,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Senegal,SEN,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,70.2513432586566
+Senegal,SEN,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,64.2710610660732
+Senegal,SEN,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Sierra Leone,SLE,Saved any money  (% age 15+),save.any.t.d,..,65.403554297881,54.2319825967112,47.8717531969219,..,61.2622326797157
+Sierra Leone,SLE,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,1.40133712685719,..,4.71438374352742
+Sierra Leone,SLE,Received government payments  (% age 15+),fing2p,..,..,8.07606828432103,10.0005974632489,..,16.8710680560948
+Sierra Leone,SLE,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Sierra Leone,SLE,Received private sector wages  (% age 15+),fin32.n33,..,4.5812977311233,8.64358437178604,8.27671898798318,..,7.81674104169745
+Sierra Leone,SLE,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Sierra Leone,SLE,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Somalia,SOM,Saved any money  (% age 15+),save.any.t.d,..,37.1968784474841,..,..,..,..
+Somalia,SOM,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Somalia,SOM,Received government payments  (% age 15+),fing2p,..,..,..,..,..,..
+Somalia,SOM,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Somalia,SOM,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Somalia,SOM,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Somalia,SOM,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Somalia,SOM,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Somalia,SOM,Received private sector wages  (% age 15+),fin32.n33,..,9.81811196056846,..,..,..,..
+Somalia,SOM,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Somalia,SOM,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Somalia,SOM,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Somalia,SOM,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Somalia,SOM,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+South Africa,ZAF,Saved any money  (% age 15+),save.any.t.d,..,66.3642859333145,59.3297297376042,62.2913556235407,..,53.4028526247774
+South Africa,ZAF,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,2.96373484468575,..,1.68432723403035
+South Africa,ZAF,Received government payments  (% age 15+),fing2p,..,..,36.1306924626437,41.6950996029119,..,37.8404052077671
+South Africa,ZAF,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,54.2143305003403,74.0182305039992,..,74.4402300475906
+South Africa,ZAF,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,77.0038585058197,83.1064854737525,..,86.2182740300229
+South Africa,ZAF,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,27.7575960916098,..,27.2398796118252
+South Africa,ZAF,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+South Africa,ZAF,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+South Africa,ZAF,Received private sector wages  (% age 15+),fin32.n33,..,21.0361219883437,24.9743382747054,33.6287685393347,..,23.7782374624774
+South Africa,ZAF,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+South Africa,ZAF,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,65.0238364873501,53.503274078358,72.1179981099561,..,73.637932223246
+South Africa,ZAF,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,74.462725749487,61.3458619302226,80.5724619875449,..,80.2627453903716
+South Africa,ZAF,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,38.1016485754155,..,..
+South Africa,ZAF,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,53.0643126904176,..,..,..,..
+South Sudan,SSD,Saved any money  (% age 15+),save.any.t.d,..,..,33.7245268510783,17.203206018665,..,..
+South Sudan,SSD,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,0.28069241728815,..,..
+South Sudan,SSD,Received government payments  (% age 15+),fing2p,..,..,9.87950792833217,5.35606407966426,..,..
+South Sudan,SSD,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+South Sudan,SSD,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+South Sudan,SSD,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+South Sudan,SSD,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+South Sudan,SSD,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+South Sudan,SSD,Received private sector wages  (% age 15+),fin32.n33,..,..,7.02531912031691,4.29461765332833,..,..
+South Sudan,SSD,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+South Sudan,SSD,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+South Sudan,SSD,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+South Sudan,SSD,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+South Sudan,SSD,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Sudan,SDN,Saved any money  (% age 15+),save.any.t.d,..,41.2628264254525,..,..,..,..
+Sudan,SDN,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,..,..,..
+Sudan,SDN,Received government payments  (% age 15+),fing2p,..,..,..,..,..,..
+Sudan,SDN,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Sudan,SDN,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Sudan,SDN,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Sudan,SDN,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Sudan,SDN,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Sudan,SDN,Received private sector wages  (% age 15+),fin32.n33,..,11.476331011162,..,..,..,..
+Sudan,SDN,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Sudan,SDN,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Sudan,SDN,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Sudan,SDN,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Sudan,SDN,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Tanzania,TZA,Saved any money  (% age 15+),save.any.t.d,..,59.2429408614072,48.388924120261,49.4646317368423,..,52.7142457124981
+Tanzania,TZA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,10.7685715351058,..,5.52248726184267
+Tanzania,TZA,Received government payments  (% age 15+),fing2p,..,..,7.96705685388855,7.81152752759752,..,8.04903608715801
+Tanzania,TZA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Tanzania,TZA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Tanzania,TZA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Tanzania,TZA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Tanzania,TZA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Tanzania,TZA,Received private sector wages  (% age 15+),fin32.n33,..,5.42784319028148,11.4316114806448,11.9078294205921,..,14.9088561329998
+Tanzania,TZA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Tanzania,TZA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Tanzania,TZA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Tanzania,TZA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Tanzania,TZA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Togo,TGO,Saved any money  (% age 15+),save.any.t.d,..,37.5485469103799,45.2251914923327,54.7934988316156,..,64.7646355474984
+Togo,TGO,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,1.68940890739939,..,3.44583553096292
+Togo,TGO,Received government payments  (% age 15+),fing2p,..,..,11.2761342670456,10.069203631333,..,12.1353735739235
+Togo,TGO,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Togo,TGO,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Togo,TGO,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Togo,TGO,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Togo,TGO,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Togo,TGO,Received private sector wages  (% age 15+),fin32.n33,..,7.55372152067612,11.4179970581468,16.4405020175387,..,16.7614675639432
+Togo,TGO,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,72.9289716447284,..,..
+Togo,TGO,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Togo,TGO,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,..
+Togo,TGO,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Togo,TGO,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Uganda,UGA,Saved any money  (% age 15+),save.any.t.d,..,75.1820315459236,68.5554055190969,70.7888746688581,..,83.4058840448143
+Uganda,UGA,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,15.8473122814104,..,21.9886448222314
+Uganda,UGA,Received government payments  (% age 15+),fing2p,..,..,15.2186996833677,10.7267121207333,..,13.6595869572609
+Uganda,UGA,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Uganda,UGA,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Uganda,UGA,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Uganda,UGA,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Uganda,UGA,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Uganda,UGA,Received private sector wages  (% age 15+),fin32.n33,..,14.5049300188656,20.1991875981575,23.8178671763231,..,27.2039901557096
+Uganda,UGA,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,76.4603508702531,53.9426756321739,53.1592983434158,..,52.9770586494692
+Uganda,UGA,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Uganda,UGA,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,43.1426265596885,..,43.1406001281608
+Uganda,UGA,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,38.951316424656
+Uganda,UGA,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Zambia,ZMB,Saved any money  (% age 15+),save.any.t.d,..,70.1214917876594,58.7379450288321,50.1426462110238,..,68.3997846905551
+Zambia,ZMB,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,9.813221516851,..,13.9086890696583
+Zambia,ZMB,Received government payments  (% age 15+),fing2p,..,..,13.9878512750755,14.6961645241072,..,23.6515292617877
+Zambia,ZMB,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Zambia,ZMB,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,53.3546634291417
+Zambia,ZMB,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Zambia,ZMB,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Zambia,ZMB,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Zambia,ZMB,Received private sector wages  (% age 15+),fin32.n33,..,14.492843387045,15.5970980276014,15.1551741283132,..,21.5915271195974
+Zambia,ZMB,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,..
+Zambia,ZMB,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Zambia,ZMB,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,..,..,..,59.89587457781
+Zambia,ZMB,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,50.8754348282139
+Zambia,ZMB,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+Zimbabwe,ZWE,Saved any money  (% age 15+),save.any.t.d,..,51.9738827541939,53.594004254507,51.9546493438954,..,45.8511336692934
+Zimbabwe,ZWE,Borrowed from a mobile money provider  (% age 15+),fin22a_1,..,..,..,5.34296429646318,..,4.37334297387324
+Zimbabwe,ZWE,Received government payments  (% age 15+),fing2p,..,..,15.7328171904095,14.5504682832241,..,15.7227330132043
+Zimbabwe,ZWE,"Received government payments: into a bank or similar financial institution account (% of government payment recipients, age 15+)",fing2p.fin.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.s,..,..,..,..,..,..
+Zimbabwe,ZWE,Received private sector wages  (% age 15+),fin32.n33,..,11.6973443340501,19.2480019703893,19.000206941768,..,18.1639053778212
+Zimbabwe,ZWE,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34c.s,..,..,..,..,..,58.0868469344542
+Zimbabwe,ZWE,"Received private sector wages: into a bank or similar financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.s,..,..,52.7015861064598,..,..,..
+Zimbabwe,ZWE,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.s,..,..,..,..,..,..
+Zimbabwe,ZWE,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34d.s,..,..,..,..,..,..
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: Global Findex database,,,,,,,,,
+Last Updated: 10/06/2025,,,,,,,,,
